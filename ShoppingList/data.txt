@@ -1,0 +1,4 @@
+Item;Soap;DM;2026
+Food;Item;Milk;Dairy;2027;true
+Food;Item;Cheese;Dairy;2028;false
+Item;Bread;Kirana;2026
